@@ -1,0 +1,6 @@
+{
+  "name": "CALLBOOK",
+  "description": "A modern bilingual social media platform featuring text and photo sharing, likes, comments, and profile management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
