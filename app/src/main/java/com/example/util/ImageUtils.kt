@@ -6,7 +6,7 @@ import android.graphics.BitmapFactory
 import android.graphics.Matrix
 import android.net.Uri
 import android.util.Base64
-import androidx.exifinterface.media.ExifInterface
+import android.media.ExifInterface
 import java.io.ByteArrayOutputStream
 import java.io.InputStream
 import kotlin.math.max
